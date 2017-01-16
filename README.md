@@ -13,7 +13,7 @@ Testing data
 --test.txt
 Divide the testing data into two files: one that contains words(test_set.txt) and other contains the corresponding POS tags(test_label.txt)
 
-To train the tagger
+To train the tagger - You can either use the pre trained models available or simple train your own tagger
 hunpos-train mytagger < train.txt
 
 To test the data against the testing set using trained tagger

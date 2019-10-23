@@ -1,6 +1,6 @@
 # HunPOS-Tagger
 
---tested on Ubuntu 16.04
+--tested on Ubuntu 16.04 and 18.04
 
 HunPOS is an open-source Part of Speech Tagger available in NLTK (Toolkit for NLP in Python).
 
